@@ -1,16 +1,31 @@
-# LumenOS
-**LumenOS** is an open-source desktop environment built in **Python** that runs as a fullscreen desktop application, creating the experience of using an entirely **different operating system without replacing your real one.**
+# 🌙 LunaOS
+
+*A modern desktop operating system built with Python & PySide6.*
+
+LunaOS is a custom desktop OS project focused on creating a clean, elegant, and lightweight desktop experience. Inspired by modern operating systems while maintaining its own lunar identity, Aurora is built entirely with **Python** and **PySide6**.
+
+## Features
+
+- Animated boot sequence
+- Lock & login screen
+- Modern desktop environment
+- Centered Start Menu
+- Search panel
+- Functional File Explorer
+- Desktop shortcuts
+- Power menu (Lock, Reboot & Shutdown)
+- Smooth window animations
+- Dark, moon-inspired interface
+
+## Tech Stack
+
+- **Python**
+- **PySide6 (Qt for Python)**
+
+## Philosophy
+
+LunaOS is designed around simplicity, smooth animations, and a minimal desktop experience. Every part of the interface is custom-built rather than relying on an existing desktop environment.
 
 ---
-**Features (Planned)**
-- Full boot, lock, and login experience
-- Custom desktop with a movable dock (top, bottom, left, or right)
-- Multi-monitor support
-- Built-in apps (Terminal, File Explorer, Settings, Notes, and more)
-- lumenfetch terminal command
-- Modern UI with smooth animations and customization
----
-Goal:
-LumenOS is designed to be a fun, polished, and highly customizable desktop experience for anyone who wants to experiment with a unique operating system interface, all while running safely on top of Windows.
----
-Contributions, bug reports, and feature suggestions are always welcome as LumenOS grows.
+
+**LunaOS Aurora** — *A desktop OS built from scratch.* 🌙
