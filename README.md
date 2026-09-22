@@ -2,7 +2,7 @@
 
 *A modern desktop operating system built with Python & PySide6.*
 
-LunaOS is a custom desktop OS project focused on creating a clean, elegant, and lightweight desktop experience. Inspired by modern operating systems while maintaining its own lunar identity, Aurora is built entirely with **Python** and **PySide6**.
+LunaOS is a custom desktop operating system focused on creating a clean, elegant, and lightweight desktop experience. Inspired by modern desktop environments while maintaining its own lunar identity, every part of the interface is built from scratch using **Python** and **PySide6**.
 
 ## Features
 
@@ -17,15 +17,22 @@ LunaOS is a custom desktop OS project focused on creating a clean, elegant, and 
 - Smooth window animations
 - Dark, moon-inspired interface
 
+## Requirements
+
+- Python 3.11 or newer
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
 ## Tech Stack
 
-- **Python**
-- **PySide6 (Qt for Python)**
+- Python
+- PySide6 (Qt for Python)
 
 ## Philosophy
 
 LunaOS is designed around simplicity, smooth animations, and a minimal desktop experience. Every part of the interface is custom-built rather than relying on an existing desktop environment.
-
----
-
-**LunaOS Aurora** — *A desktop OS built from scratch.* 🌙
